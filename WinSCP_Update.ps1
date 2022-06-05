@@ -1,5 +1,5 @@
 ###########################
-# HOMEPAGE : https://github.com/ZarTek-Creole/POWERSHELL-WinSCP-PORTABLE-FR-UPDATE
+# HOMEPAGE : github.com/ZarTek-Creole/POWERSHELL-WinSCP-PORTABLE-FR-UPDATE
 # AUTHOR   : ZarTek.Creole@gmail.com
 #
 # Update your WinSCP portable with your lang
