@@ -1,6 +1,6 @@
 ###########################
-# HOMEPAGE : https://github.com/MalaGaM/POWERSHELL-WinSCP-PORTABLE-FR-UPDATE
-# AUTHOR   : malagam.artispretis@gmail.com
+# HOMEPAGE : https://github.com/ZarTek-Creole/POWERSHELL-WinSCP-PORTABLE-FR-UPDATE
+# AUTHOR   : ZarTek.Creole@gmail.com
 #
 # Update your WinSCP portable with your lang
 #
